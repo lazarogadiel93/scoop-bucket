@@ -1,0 +1,22 @@
+{
+    "version": "1.21.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/download/v1.21.0/gentle-ai_1.21.0_windows_amd64.zip",
+            "bin": [
+                "gentle-ai.exe"
+            ],
+            "hash": "36bf257bf7112c2d353ffef3f9b4d5debd72e9c6e5e96a151ebba05d7a8f8772"
+        },
+        "arm64": {
+            "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/download/v1.21.0/gentle-ai_1.21.0_windows_arm64.zip",
+            "bin": [
+                "gentle-ai.exe"
+            ],
+            "hash": "a14ed2b24a9e3ff93915213561280bd0618b90f4cdf209a09ee553040989a473"
+        }
+    },
+    "homepage": "https://github.com/Gentleman-Programming/gentle-ai",
+    "license": "MIT",
+    "description": "AI Gentle Stack — One command to configure any AI coding agent on any OS."
+}
